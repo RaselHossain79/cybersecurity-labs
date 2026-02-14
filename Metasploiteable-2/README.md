@@ -10,42 +10,12 @@ This repository is strictly for **educational and ethical purposes only**.
 
 ## 📂 Contents Overview
 
-### Metasploitable2 Pentest – Port 1524 (Ingreslock)
-📄 **Report:** `Metasploitable2_Port_1524_Pentest.pdf`
+# Metasploitable2 – Penetration Testing Overview
 
-**What’s covered:**
-- Service identification on port 1524
-- Vulnerability analysis (Ingreslock backdoor)
-- Exploitation methodology
-- Post-exploitation access
-- Security impact and recommendations
+This directory contains **penetration testing notes and reports** performed against the intentionally vulnerable **Metasploitable2** virtual machine in a controlled lab environment.
 
-📌 **Status:** ✅ Completed  
-📌 **Target:** Metasploitable2 (Local Lab)
-
----
-
-### Metasploitable2 Pentest – Port 3306 (MySQL)
-📄 **Report:** `Metasploitable2_Port_3306_MySQL_Pentest.pdf`
-
-**What’s covered:**
-- MySQL service enumeration
-- Credential testing & authentication analysis
-- Database access verification
-- Data exposure risks
-- Mitigation strategies
-
-📌 **Status:** ✅ Completed  
-📌 **Target:** Metasploitable2 (Local Lab)
-
----
-## 🛠 Tools & Technologies Used
-- Kali Linux
-- Metasploit Framework
-- Nmap
-- MySQL Client
-- Windows OS
-- VMware
+⚠️ **Disclaimer**  
+All testing documented here was conducted in an **authorized local lab** strictly for educational and ethical learning purposes.
 
 ---
 
