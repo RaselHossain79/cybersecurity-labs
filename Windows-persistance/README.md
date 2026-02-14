@@ -29,9 +29,8 @@ This repository is strictly for **educational and ethical purposes only**.
 - Kali Linux
 - Metasploit Framework
 - Nmap
-- MySQL Client
 - Windows OS
-- VirtualBox / VMware
+- VMware
 
 ---
 
@@ -46,4 +45,7 @@ This repository is maintained to:
 ## 👤 Author
 **Name:** *MD RASEL HOSSAIN* 
 **Field:** Cybersecurity / Offensive Security / Ethical Hacking 
-**Location:** Bangladesh 🇧🇩
+
+---
+
+⭐ If you find this repository helpful, feel free to explore or give feedback.
